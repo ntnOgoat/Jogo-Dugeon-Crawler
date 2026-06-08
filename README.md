@@ -79,9 +79,14 @@ Você precisará de um compilador de C (como o `gcc` ou `clang`) instalado na su
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
    cd NOME_DO_REPOSITORIO
 
-## 📜 Uso da Ia
-Ia foi utilizada pra fazer algumas funcionalidades do Cod. Fonte
-E pra enfeitar o READ.ME
+## Desenvolvimento e Uso de IA
+
+O processo de desenvolvimento contou com o auxílio de Inteligência Artificial em diversas etapas do código, mas com um resultado misto (ajudou mais ou menos).
+
+* **Onde ajudou:** A IA foi útil para acelerar a escrita de estruturas repetitivas, preenchimento de sintaxe básica, criação de menus e sugestões de nomes para variáveis e funções. Poupou um tempo considerável no início do projeto.
+* **Onde complicou:** Por outro lado, a IA apresentou dificuldades com a lógica específica do jogo. Foram frequentes os erros de gerenciamento de ponteiros, alocação de memória incorreta e loops infinitos nas funções principais. 
+
+No fim, a IA serviu como uma assistente para o trabalho bruto de digitação, mas a revisão, a correção de bugs e a lógica real do jogo dependeram inteiramente de ajuste manual.
 
 
 CODIGO FONTE
