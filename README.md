@@ -7,7 +7,10 @@
 **Dungeon Crawler** é um jogo de aventura de perspectiva *top-down* (visão aérea) totalmente renderizado em arte ASCII para o terminal/console. O projeto foi desenvolvido de forma nativa na linguagem C, com foco em lógica de matrizes, gerenciamento de estados e portabilidade entre sistemas operacionais.
 
 ---
-
+## DESENVOLVEDORES
+Lucas Quadros Gomes
+Pedro Passos Ferreira 
+Natan Brasil Reis de Almeida
 ## 📜 A História
 
 O reino de Aeldoria foi tomado pelas forças das trevas. Um herói corajoso deve descer às profundezas da dungeon medieval, enfrentar monstros terríveis, resolver quebra-cabeças mecânicos e derrotar o temível Boss Final para restaurar a luz e a paz ao reino.
