@@ -79,7 +79,9 @@ Você precisará de um compilador de C (como o `gcc` ou `clang`) instalado na su
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
    cd NOME_DO_REPOSITORIO
 
-
+## 📜 Uso da Ia
+Ia foi utilizada pra fazer algumas funcionalidades do Cod. Fonte
+E pra enfeitar o READ.ME
 
 
 CODIGO FONTE
